@@ -1,9 +1,6 @@
 @extends('master')
 
-@section('title','Главная')
-
 @section('content')
-
 
     <!-- Hero Section Begin -->
     <section class="hero">
